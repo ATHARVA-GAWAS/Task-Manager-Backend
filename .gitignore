@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Frontend build artifacts
+.next/
+public/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+# NPM and Yarn lock files (if you want to exclude them)
+# package-lock.json
+# yarn.lock
+
+# MongoDB data directory (if you have local MongoDB data stored in the project directory)
+data/
+
+# Other
+*.tgz
+*.gz
